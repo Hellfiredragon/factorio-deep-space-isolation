@@ -1,0 +1,9 @@
+{
+    "name": "factorio-deep-space-isolation",
+    "version": "0.0.1",
+    "title": "Deep Space isolation",
+    "author": "Hellfiredragon",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "A rework where you get stranded in an asteroid belt. A storm forces you regularly to warp to another location."
+}
